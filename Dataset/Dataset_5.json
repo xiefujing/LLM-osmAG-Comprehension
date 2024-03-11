@@ -1,0 +1,122 @@
+[
+    {
+        "instruction": "What is the capital of the United States?",
+        "input": "",
+        "output": "Washington, D.C.",
+        "history": []
+    },
+    {
+        "instruction": "Who wrote 'Hamlet'?",
+        "input": "",
+        "output": "William Shakespeare",
+        "history": []
+    },
+    {
+        "instruction": "What is the chemical symbol for water?",
+        "input": "",
+        "output": "H2O",
+        "history": []
+    },
+    {
+        "instruction": "Which planet is known as the Red Planet?",
+        "input": "",
+        "output": "Mars",
+        "history": []
+    },
+    {
+        "instruction": "What is the largest mammal in the world?",
+        "input": "",
+        "output": "Blue whale",
+        "history": []
+    },
+    {
+        "instruction": "Who painted the Mona Lisa?",
+        "input": "",
+        "output": "Leonardo da Vinci",
+        "history": []
+    },
+    {
+        "instruction": "What is the smallest prime number?",
+        "input": "",
+        "output": "2",
+        "history": []
+    },
+    {
+        "instruction": "What is the capital of France?",
+        "input": "",
+        "output": "Paris",
+        "history": []
+    },
+    {
+        "instruction": "Who is known as the father of computer science?",
+        "input": "",
+        "output": "Alan Turing",
+        "history": []
+    },
+    {
+        "instruction": "What is the speed of light in vacuum?",
+        "input": "",
+        "output": "299,792 kilometers per second",
+        "history": []
+    },
+    {
+        "instruction": "What is the largest ocean on Earth?",
+        "input": "",
+        "output": "Pacific Ocean",
+        "history": []
+    },
+    {
+        "instruction": "Who discovered penicillin?",
+        "input": "",
+        "output": "Alexander Fleming",
+        "history": []
+    },
+    {
+        "instruction": "What is the hardest natural substance on Earth?",
+        "input": "",
+        "output": "Diamond",
+        "history": []
+    },
+    {
+        "instruction": "Who was the first person to walk on the Moon?",
+        "input": "",
+        "output": "Neil Armstrong",
+        "history": []
+    },
+    {
+        "instruction": "What is the capital of Japan?",
+        "input": "",
+        "output": "Tokyo",
+        "history": []
+    },
+    {
+        "instruction": "What is the main ingredient in guacamole?",
+        "input": "",
+        "output": "Avocado",
+        "history": []
+    },
+    {
+        "instruction": "What year did the Titanic sink?",
+        "input": "",
+        "output": "1912",
+        "history": []
+    },
+    {
+        "instruction": "What is the highest mountain in the world?",
+        "input": "",
+        "output": "Mount Everest",
+        "history": []
+    },
+    {
+        "instruction": "Who invented the telephone?",
+        "input": "",
+        "output": "Alexander Graham Bell",
+        "history": []
+    },
+    {
+        "instruction": "What is the longest river in the world?",
+        "input": "",
+        "output": "Nile River",
+        "history": []
+    }
+]
